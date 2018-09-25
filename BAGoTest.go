@@ -1,4 +1,4 @@
-package main
+package BAGoTest
 
 import (
 	"fmt"
